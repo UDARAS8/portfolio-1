@@ -1,0 +1,17 @@
+packages:
+  "framer-motion": "For premium smooth scroll and section entry animations"
+  "clsx": "Utility for constructing className strings conditionally"
+  "tailwind-merge": "Utility function to efficiently merge Tailwind CSS classes"
+
+images:
+  - path: "artifacts/portfolio/public/images/hero-bg.png"
+    description: "Dark, sleek abstract technology background with glowing electric violet and cyan geometric mesh lines, deeply atmospheric, 4k, suitable for a developer portfolio hero section"
+    aspect_ratio: "16:9"
+  - path: "artifacts/portfolio/public/images/avatar.png"
+    description: "Sleek, modern 3D abstract illustration of a faceless developer, dark theme with electric violet neon accents, highly polished, premium tech aesthetic"
+    aspect_ratio: "1:1"
+
+notes:
+  - Entirely static portfolio site. No backend calls required.
+  - Using framer-motion for scroll-triggered entry animations.
+  - Implemented a single-page scrolling architecture.

@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "FTLro5ryGJgL6U2X3H_az"
+uri = "file://portfolio.tar.gz"
+type = "unspecified"
+title = "Udara Wijesekara - Portfolio (Source Code)"
